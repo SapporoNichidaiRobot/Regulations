@@ -1,2 +1,2 @@
 # Regulations
-This is regulation of Regulation.
+This is regulation of SNJRC.
