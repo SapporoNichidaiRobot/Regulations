@@ -1,6 +1,6 @@
 # 札幌日本大学中高一貫ロボット部規則
 
-Revision; beta-0.0
+Revision; beta-0.1
 
 1. 規則の目的
 
