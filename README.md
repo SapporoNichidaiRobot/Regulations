@@ -32,9 +32,9 @@ This is regulation of SNJRC.
         > alpha 0.0 → alpha 0.1
     1. Releaseは完全版です。実際の活動ではReleaseが適用されます。master ブランチで編集を行います。
         1. 条項の追加、運用上大幅な変更をもたらすものはメジャーアップデートです。
-        > Release 0.0 → Release 1.0
+            > Release 0.0 → Release 1.0
         1. 文言の修正、枝分の修正はマイナーアップデートです。
-        > Release 0.0 → Release 0.1
+            > Release 0.0 → Release 0.1
 1. 改訂の手順は以下の通りです。
     1. 草案（beta）の作成。beta リポジトリを alpha1リポジトリにマージします。
     1. 審査版（alpha）の作成。alpha リポジトリを
